@@ -4,7 +4,6 @@ Dice-Flutter
 " Dice" is a simple Flutter app that simulates rolling dice  offering users an easy and fun way to generate random numbers on their mobile devices.
 
 
-## Screenshots
 
 ![App Screenshot](https://github.com/amit2303/Dice/blob/main/screenshots/Screenshot%202023-10-05%20at%209.20.18%E2%80%AFPM.png)
 
